@@ -1,49 +1,36 @@
-<h1 align="center">⚡ Hola, soy Jaider Quintero Montiel ⚡</h1>
-<h3 align="center">💻 Apasionado por las tecnologías web & mobile 🚀</h3>
+# Jaider Quintero Montiel
+
+### Tecnólogo en Análisis de Software | Desarrollador Fullstack
 
 ---
 
-### 👨‍💻 Sobre mí
-- 👋 Soy **Jaider Quintero** (@jquinteromo)  
-- 👀 Me interesan **tecnologías web y móviles**  
-- 🌱 Actualmente estoy aprendiendo **React, Node.js y TypeScript**  
-- 🤝 Busco colaborar en **proyectos JavaScript / Fullstack**  
-- 🎯 Objetivo: crecer como desarrollador y crear productos con impacto  
+## Sobre mí
+Soy tecnólogo en análisis de software con más de 2 años de experiencia práctica desarrollando proyectos personales y colaborativos. Aunque no he trabajado de forma contractual en una empresa, he construido aplicaciones completas que demuestran mi capacidad para abordar proyectos de principio a fin.  
+
+Actualmente me dedico a crear sitios web fullstack y brindar apoyo a empresas en tareas de desarrollo rápido bajo modalidad freelance. Mi objetivo es continuar aprendiendo profesionalmente, consolidar experiencia en entornos corporativos y evolucionar para convertirme en un referente sólido dentro del desarrollo de software, siempre con una mentalidad de mejora continua.  
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,git,github,mongodb,express" />
-</p>
+## Tech Stack
+- **Frontend:** React, JavaScript, TypeScript, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **Bases de datos:** MySQL, MongoDB, Redis  
+- **Herramientas y control de versiones:** Git, GitHub  
 
 ---
 
-### 🚀 Proyectos Destacados
-🔹 [**Login-sencillo**](https://github.com/jquinteromo/Login-sensillo) → Pequeño sistema de login con CSS/HTML  
-🔹 [**posBatAutos**](https://github.com/jquinteromo/posBatAutos) → Proyecto en TypeScript para gestión de autos  
-🔹 [**Blog ejemplo caricaturesco**](https://github.com/jquinteromo/Blog-ejemplo-caricaturesco) → Proyecto HTML/CSS  
+## Proyectos destacados
+- [**CorpStore**](https://github.com/jquinteromo/CorpStore) → Plataforma de gestión empresarial.  
+- [**Moodflix**](https://github.com/jquinteromo/moodflix) → Aplicación de películas y series.  
+- [**Zintra**](https://github.com/jquinteromo/zintra) → Aplicación de chat en tiempo real.  
 
 ---
 
-###  Stats de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jquinteromo&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jquinteromo&layout=compact&theme=radical" alt="top-langs" />
-</p>
+## Objetivos
+Seguir perfeccionando mis conocimientos en desarrollo fullstack, adquirir experiencia en entornos profesionales y aportar valor en proyectos de alto impacto. Mi meta es crecer hasta convertirme en un programador altamente competente y confiable, siempre con una visión realista y enfocada en la calidad.  
 
 ---
 
-###  Encuéntrame en
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/jquinteromo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">⚡ Hecho con pasión y café por <b>Jaider Quintero Montiel</b> ☕🚀</p>
+## Contacto
+- **GitHub:** [@jquinteromo](https://github.com/jquinteromo)  
+- **Portafolio:** *(https://porfolio-jaider-quintero.vercel.app/)*  
