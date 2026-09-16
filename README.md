@@ -5,7 +5,7 @@
 ---
 
 ## Sobre mí
-Soy tecnólogo en análisis de software con más de 2 años de experiencia práctica desarrollando proyectos personales y colaborativos. Aunque no he trabajado de forma contractual en una empresa, he construido aplicaciones completas que demuestran mi capacidad para abordar proyectos de principio a fin.  
+Soy tecnólogo en análisis de software con más de 3 años de experiencia práctica desarrollando proyectos personales y colaborativos. Aunque no he trabajado de forma contractual en una empresa, he construido aplicaciones completas que demuestran mi capacidad para abordar proyectos de principio a fin.  
 
 Actualmente me dedico a crear sitios web fullstack y brindar apoyo a empresas en tareas de desarrollo rápido bajo modalidad freelance. Mi objetivo es continuar aprendiendo profesionalmente, consolidar experiencia en entornos corporativos y evolucionar para convertirme en un referente sólido dentro del desarrollo de software, siempre con una mentalidad de mejora continua.  
 
